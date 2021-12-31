@@ -1,8 +1,19 @@
 head{
-    background-color: darkolivegreen;
+    background-color: darkgray;
 }
 
 body{
-    background-color: darkolivegreen;
+    background-color: darkgrey;
 }
 
+h1{
+    color: black;
+    text-align: center;
+    font-size: 40px;
+}
+
+p{
+    color: black;
+    text-align: center;
+    font-size: 15px;
+}
